@@ -1,0 +1,4 @@
+myCustomVarTree:
+  devName: Santo
+server:
+  port: 7070
